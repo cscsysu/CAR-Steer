@@ -1,0 +1,11 @@
+{
+  "threshold": 0.412,
+  "alpha": 1.0,
+  "initial_bias": 2.0,
+  "bias_decay": 0.5,
+  "center_start": 3,
+  "center_end": 31,
+  "max_new_tokens": 32,
+  "model_type": "llama",
+  "num_layers": 32
+}
